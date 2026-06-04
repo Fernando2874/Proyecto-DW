@@ -1,0 +1,1 @@
+productos = '[{"id":1,"nombre":"Producto 1","precio": 375,"cantidad":0,"imagen":"images/Neptuno.jpg"},{"id":2,"nombre":"Producto 2","precio": 375,"cantidad":0,"imagen":"images/Neptuno.jpg"},{"id":3,"nombre":"Producto 3","precio": 375,"cantidad":0,"imagen":"images/Neptuno.jpg"},{"id":4,"nombre":"Producto 4","precio": 375,"cantidad":0,"imagen":"images/Neptuno.jpg"}]';

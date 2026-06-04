@@ -1,0 +1,19 @@
+body, html{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.caja{
+    height: 80%;
+    display: flex;
+    flex-flow: row;
+}
+h1{
+    text-align: center;
+}
+
+article{
+    background: #cfc;
+    flex: 60%;
+}
